@@ -1,0 +1,50 @@
+﻿<Window x:Class="FestivaliAS.PotvrdeBrisanja.ObrisiTip"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FestivaliAS.ViewModels"
+        mc:Ignorable="d"
+        Title="Obrisi Tip?" Icon="/../Images/icons8-data-sheet-35 (1).png"  Height="640" Width="860" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <local:ManifestacijaViewModel x:Key="DataContext" />
+    </Window.Resources>
+    <Grid  DataContext="{Binding Source= {StaticResource DataContext}}" Background="#9DA1B6">
+
+        <!--TABELA-->
+        <DataGrid Name="tipGrid" Background="WhiteSmoke"  AutoGenerateColumns="False" SelectedItem="{Binding SelektovanaManifestacija, UpdateSourceTrigger=PropertyChanged}"  ItemsSource="{Binding ManifestacijeKojeSadrzeTip}"  IsReadOnly="True" Margin="22,120,28,150" FontSize="20" FontFamily="Arial" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Jedinstvena oznaka" MinWidth="200" Width="*" Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="Naziv"  MinWidth="200" Width="*" Binding="{Binding Name}"/>
+                <DataGridTemplateColumn Header="Ikonica" MinWidth="200" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding IconPath}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Header="Opis" MinWidth="200" Width="*" Binding="{Binding Opis}"/>
+
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+        <GroupBox x:Name="FilterTipova" BorderBrush="DimGray" Background="WhiteSmoke" BorderThickness="2"  HorizontalAlignment="Left" FontWeight="DemiBold" Margin="22,10,0,0" FontSize="24"   FontFamily="Arial" 
+                  VerticalAlignment="Top" Height="94" Width="804" >
+            <Grid>
+
+                <!--ID PRETRAGA-->
+                <Label Content="Selektovan tip postoji u manifestacijama. Da bi obrisao tip potrebno je izmeniti tip svih" FontWeight="Normal" FontSize="20"  FontFamily="Arial" Margin="10,15,0,37" ></Label>
+                <Label Content="manifestacija koje su navedene u tabeli ili ih obrisati zajedno sa tipom." FontWeight="Normal" FontSize="20"  FontFamily="Arial" Margin="10,51,-51,5" ></Label>
+
+            </Grid>
+        </GroupBox>
+
+        <Button x:Name="Edit" Command="{Binding EditManifestacijaClickCommand}" Content="Izmeni" HorizontalAlignment="Left" Background="LightBlue" Width="106" FontSize="22" FontFamily="Arial" Margin="720,476,0,92" />
+        <Button x:Name="Izadji" Command="{Binding OdustaniOdBrisanjaEtiketeCommand}" Content="Odustani" HorizontalAlignment="Left" Width="106" FontSize="22" FontFamily="Arial" Background="LightGray" Margin="720,547,0,21" Click="Cancel_Click"/>
+        <Button x:Name="Delete" Command="{Binding IzbrisiTipKojiSadrziManifestacije}" Content="Izbriši" HorizontalAlignment="Left" Background="LightCoral" FontSize="22" FontFamily="Arial" Width="106" Margin="577,547,0,21" Click="RemoveTipClick"/>
+        <Button x:Name="DeleteAll" Command="{Binding ObrisiTipSaManifestacijamaCommand}" Content="Izbriši tip sa svim manifestacijama" HorizontalAlignment="Left" Background="LightCoral" FontSize="22" FontFamily="Arial" Width="347" Margin="22,476,0,92" Click="RemoveTipClick"/>
+
+    </Grid>
+</Window>

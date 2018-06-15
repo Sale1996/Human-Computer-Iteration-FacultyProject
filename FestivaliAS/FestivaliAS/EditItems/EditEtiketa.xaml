@@ -1,0 +1,46 @@
+﻿<Window x:Class="FestivaliAS.EditItems.EditEtiketa"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FestivaliAS.ViewModels"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="Izmena Etikete"  Icon="/../Images/icons8-new-ticket-35 (1).png" Height="400" Width="550"  ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <local:EtiketaViewModel x:Key="DataContext" />
+    </Window.Resources>
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Help" Executed="Help_Executed"/>
+    </Window.CommandBindings>
+    <Grid DataContext="{StaticResource DataContext}"  Background="#9DB6A4">
+
+        <GroupBox x:Name="Osnovno" Header="Osnovno" BorderBrush="DimGray" BorderThickness="2" Background="WhiteSmoke" FontSize="15" FontWeight="Bold" Margin="29,10,18,73">
+            <Grid>
+
+                <!--ID-->
+                <Label Content="Jedinstvena oznaka:" HorizontalAlignment="Left" FontWeight="Normal" FontSize="20" FontFamily="Arial" Margin="0,6,0,-6" />
+                <TextBox x:Name="IdTextBox" BorderBrush="DimGray" FontWeight="Normal"  Text="{Binding SelektovanaEtiketaBackup.Id, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="186" HorizontalContentAlignment="Left" 
+                 VerticalContentAlignment="Center" FontSize="20" FontFamily="Arial" Background="#DDECE1" Foreground="Black" Margin="255,10,0,0" />
+                <Label FontSize="18" FontWeight="Bold" Foreground="Red" Content="{Binding ElementName=IdTextBox , Path=(Validation.Errors).CurrentItem.ErrorContent}"  Margin="0,36,192,182" />
+                <!--BOJA-->
+                <Label Content="Boja:"  FontWeight="Normal" HorizontalAlignment="Left" FontSize="20" FontFamily="Arial" Width="192" Height="Auto" Margin="0,66,0,150" />
+                <xctk:ColorPicker x:Name="ColorPicker" BorderBrush="DimGray" SelectedColor="{Binding SelektovanaEtiketaBackup.Boja,ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" IsHitTestVisible="True"  Margin="255,66,33,154" />
+
+                <!--OPIS-->
+                <Label Content="Opis:" FontWeight="Normal" HorizontalAlignment="Left" FontSize="20" FontFamily="Arial" Width="Auto" Height="Auto" Margin="0,125,0,-125"  />
+                <TextBox HorizontalAlignment="Left" BorderBrush="DimGray" Height="104" FontWeight="Normal"  Text="{Binding SelektovanaEtiketaBackup.Opis,ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" Margin="101,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" 
+                 Width="340" FontSize="20" Background="#DDECE1" FontFamily="Arial" Foreground="Black" VerticalScrollBarVisibility="Auto"/>
+
+
+            </Grid>
+
+        </GroupBox>
+
+
+        <Button Name="IzmeniDugme" Command="{Binding EditEtiketaCommand}" Click="DodajDugme_Click" Content="Izmeni" HorizontalAlignment="Left" Width="106" FontSize="22" FontFamily="Arial" Background="LightBlue" Margin="283,317,0,10"/>
+        <Button Name="Odustani" Content="Odustani" HorizontalAlignment="Left" Width="106" FontSize="22" FontFamily="Arial" Background="LightGray" Margin="416,317,0,10" Click="Cancel_Click"/>
+
+
+    </Grid>
+</Window>

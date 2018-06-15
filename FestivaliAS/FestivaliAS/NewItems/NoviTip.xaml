@@ -1,0 +1,63 @@
+﻿<Window x:Class="FestivaliAS.NewItems.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FestivaliAS.ViewModels"
+        mc:Ignorable="d"
+        Title="Unost tipa manifestacije" Icon="/../Images/icons8-t-35.png"  Height="370" Width="930" ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <local:TipViewModel x:Key="DataContext" />
+    </Window.Resources>
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Help" Executed="Help_Executed"/>
+    </Window.CommandBindings>
+
+    <Grid DataContext="{StaticResource DataContext}" Margin="0,0,0,0" Background="#9DA1B6">
+        <!--Pozadina boja :9DA1B6 Boja Text Boxova: DDE0EC   Boja izaberi ikonicu: B9BCC9             C2B9B9 -->
+        <Button Name="DodajDugme"  Command="{Binding AddTipCommand}" Content="Dodaj" HorizontalAlignment="Left" Width="106" FontSize="22" FontFamily="Arial" Background="YellowGreen" Margin="672,279,0,19" Click="DodajDugme_Click"/>
+        <Button Name="Odustani" Content="Odustani" HorizontalAlignment="Left" Width="106" FontSize="22" FontFamily="Arial" Background="LightGray" Margin="802,280,0,19" Click="Cancel_Click" RenderTransformOrigin="2.835,0.407"/>
+
+
+        <!--OSNOVNO-->
+        <GroupBox x:Name="Osnovno" Header="Osnovno" BorderBrush="DimGray" BorderThickness="2" Background="WhiteSmoke" FontSize="15" FontWeight="Bold" Margin="10,13,474,39" Grid.ColumnSpan="2">
+            <Grid>
+
+                <!--ID-->
+                <Label Content="Jedinstvena oznaka:" HorizontalAlignment="Left" FontWeight="Normal" FontSize="20" FontFamily="Arial" Margin="0,6,0,-6" />
+                <TextBox x:Name="IdTextBox"  ToolTip="Ovde unesi identifikacionu oznaku koja se sastoji iz slova, brojeva, donje crte i da joj maksimalna dužina bude 15" FontWeight="Normal" BorderBrush="DimGray"  Text="{Binding Tip.Id, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="186" HorizontalContentAlignment="Left" 
+                 VerticalContentAlignment="Center" FontSize="20" FontFamily="Arial" Background="#DDE0EC" Foreground="Black" Margin="216,10,0,0" />
+                <Label FontSize="18" FontWeight="Bold" Foreground="Red" Content="{Binding ElementName=IdTextBox , Path=(Validation.Errors).CurrentItem.ErrorContent}"  Margin="0,36,26,178" />
+                <!--IME-->
+                <Label Content="Ime:" FontWeight="Normal" HorizontalAlignment="Left" FontSize="20" FontFamily="Arial" Width="142" Height="Auto" Margin="0,72,0,143"  />
+                <TextBox FontWeight="Normal" ToolTip="Ovde unesi ime tipa koje nije duže od 15 karaktera" BorderBrush="DimGray"  x:Name="ImeTextBox" Text="{Binding Tip.Name,ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="186" HorizontalContentAlignment="Left" 
+                 VerticalContentAlignment="Center" FontSize="20" FontFamily="Arial" Background="#DDE0EC" Foreground="Black" Margin="216,72,0,0"/>
+                <Label FontSize="18" FontWeight="Bold" Foreground="Red" Content="{Binding ElementName=ImeTextBox , Path=(Validation.Errors).CurrentItem.ErrorContent}" Margin="0,106,129,108" />
+
+                <!--OPIS-->
+                <Label Content="Opis:" FontWeight="Normal" HorizontalAlignment="Left" FontSize="20" FontFamily="Arial" Width="Auto" Height="Auto" Margin="0,140,0,-140"  />
+                <TextBox HorizontalAlignment="Left" ToolTip="Ovde unesi opis tipa" BorderBrush="DimGray" Height="90" FontWeight="Normal"  Text="{Binding Tip.Opis,ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" Margin="62,145,0,0" TextWrapping="Wrap" VerticalAlignment="Top" 
+                 Width="340" FontSize="20" Background="#DDE0EC" FontFamily="Arial" Foreground="Black" VerticalScrollBarVisibility="Auto"/>
+
+
+            </Grid>
+
+        </GroupBox>
+
+        <!--Ikonica-->
+        <GroupBox x:Name="Ikonica" Header="Ikonica" HorizontalAlignment="Left" Margin="478,13,0,0" 
+                  VerticalAlignment="Top" Height="180" Width="430" BorderBrush="DimGray" BorderThickness="2" Background="WhiteSmoke" FontSize="15" FontWeight="Bold">
+            <Grid>
+                <Button x:Name="dugmeIkonica" ToolTip="Preko ovog dugmeta se vrši izbor ikonice tipa" Command="{Binding AddTipIcon}" FontWeight="Normal" Background="#B9BCC9" Foreground="Black" Content="Izaberi Ikonicu" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Margin="268,102,0,0" Height="42" Width="140"></Button>
+                <Image x:Name="IconPath"   Source="{Binding Tip.IconPath}" Margin="10,10,175,10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+                <TextBox x:Name="IkonicaTipa1"  FontWeight="Normal" BorderBrush="DimGray"  Text="{Binding Tip.IconPath, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged}" Width="0" Height="0" Margin="0,0,408,152"></TextBox>
+
+                <Label FontSize="18" FontWeight="Bold" Foreground="Red" Content="{Binding ElementName=IkonicaTipa1 , Path=(Validation.Errors).CurrentItem.ErrorContent}" Margin="0,0,10,111" />
+
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Window>

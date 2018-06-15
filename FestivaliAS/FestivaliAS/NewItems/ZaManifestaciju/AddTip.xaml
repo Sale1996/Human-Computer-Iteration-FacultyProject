@@ -1,0 +1,66 @@
+﻿<Window x:Class="FestivaliAS.NewItems.ZaManifestaciju.AddTip"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FestivaliAS.ViewModels"
+        mc:Ignorable="d"
+        Title="Ubaci tip" Icon="/../Images/icons8-data-sheet-35 (1).png"  Height="640" Width="860" Closing="zatvaranje" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <local:TipViewModel x:Key="DataContext" />
+    </Window.Resources>
+
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Help" Executed="Help_Executed"/>
+    </Window.CommandBindings>
+    <Grid DataContext="{Binding Source= {StaticResource DataContext}}" Background="#9DA1B6">
+
+
+        <!--TABELA-->
+        <DataGrid Name="tipGrid" Background="WhiteSmoke"  AutoGenerateColumns="False" SelectedItem="{Binding SelektovaniTip, UpdateSourceTrigger=PropertyChanged}"  ItemsSource="{Binding Tipovi}"  IsReadOnly="True" Margin="22,202,28,88" FontSize="20" FontFamily="Arial" RowHeight="50" Grid.ColumnSpan="5" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Jedinstvena oznaka" MinWidth="200" Width="*" Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="Naziv"  MinWidth="200" Width="*" Binding="{Binding Name}"/>
+                <DataGridTemplateColumn Header="Ikonica" MinWidth="200" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding IconPath}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Header="Opis" MinWidth="200" Width="*" Binding="{Binding Opis}"/>
+
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+        <!--FILTER I PRETRAGA-->
+
+        <GroupBox x:Name="FilterTipova" BorderBrush="DimGray" Background="WhiteSmoke" BorderThickness="2" Header="Filter i pretraga" HorizontalAlignment="Left" FontWeight="DemiBold" Margin="22,10,0,0" FontSize="24"   FontFamily="Arial" 
+                  VerticalAlignment="Top" Height="133" Width="804" >
+            <Grid>
+
+                <!--ID PRETRAGA-->
+                <TextBox BorderBrush="DimGray" HorizontalAlignment="Left" VerticalAlignment="Top" Width="654" HorizontalContentAlignment="Left" 
+                 VerticalContentAlignment="Center" FontSize="20" FontFamily="Arial" Background="#DDE0EC" Foreground="Black" Margin="8,30,0,0" />
+
+                <!--IME PRETRAGA-->
+                <!--Ime-->
+
+                <Button x:Name="FindTip" FontWeight="Normal" Content="Pretraži" HorizontalAlignment="Left" Background="Bisque" Width="106" FontSize="22" FontFamily="Arial" Margin="667,-5,0,60"/>
+                <Button Name="PonistiTip" FontWeight="Normal" Content="Poništi" HorizontalAlignment="Left" Width="106" FontSize="22" FontFamily="Arial" Background="LightGray" Margin="667,48,0,7"/>
+
+
+
+            </Grid>
+        </GroupBox>
+        <Button x:Name="Add" Command="{Binding UbaciPostojeciTipCommand}" Content="Ubaci" HorizontalAlignment="Left" Background="YellowGreen" Width="106" FontSize="22" FontFamily="Arial" Margin="586,547,0,21" Click="Ubaci_Dugme_Click" />
+        <Button x:Name="AddNovi" Command="{Binding KreirajNoviTipUTabeliCommand}" Content="Napravi novi tip" HorizontalAlignment="Left" Background="YellowGreen" Width="164" FontSize="22" FontFamily="Arial" Margin="22,547,0,21"  />
+
+        <Button Name="Izadji" Command="{Binding OdustaniOdUbacivanjaCommand}" Content="Odustani" HorizontalAlignment="Left" Width="106" FontSize="22" FontFamily="Arial" Background="LightGray" Margin="720,547,0,21" RenderTransformOrigin="0.575,0.976" Click="Cancel_Click" />
+
+
+    </Grid>
+</Window>

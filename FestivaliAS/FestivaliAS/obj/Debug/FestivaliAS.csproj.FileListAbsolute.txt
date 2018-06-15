@@ -1,0 +1,474 @@
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe.config
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csprojResolveAssemblyReference.cache
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.g.cs
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\App.g.cs
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.cache
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.lref
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.baml
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.g.resources
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.Properties.Resources.resources
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.GenerateResource.Cache
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.CoreCompileInputs.cache
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.g.cs
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.baml
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.g.cs
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.g.cs
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.baml
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.baml
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.g.cs
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.g.cs
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.g.cs
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.baml
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.baml
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.baml
+C:\Users\sale\Desktop\HCI\PROJEKAT HCI\FestivaliAS\FestivaliAS\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe.config
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csprojResolveAssemblyReference.cache
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\App.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.cache
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.lref
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.g.resources
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.Properties.Resources.resources
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.GenerateResource.Cache
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.CoreCompileInputs.cache
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\PROJEKAT HCI\FestivaliAS\FestivaliAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe.config
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csprojResolveAssemblyReference.cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\App.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.lref
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.g.resources
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.Properties.Resources.resources
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.GenerateResource.Cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.CoreCompileInputs.cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe.config
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csprojResolveAssemblyReference.cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\App.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.lref
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.g.resources
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.Properties.Resources.resources
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.GenerateResource.Cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.CoreCompileInputs.cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (2)\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csprojResolveAssemblyReference.cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\App.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.lref
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe.config
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.g.resources
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.Properties.Resources.resources
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.GenerateResource.Cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3)\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.CoreCompileInputs.cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe.config
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csprojResolveAssemblyReference.cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\App.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.lref
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.g.resources
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.Properties.Resources.resources
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.GenerateResource.Cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.CoreCompileInputs.cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe.config
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csprojResolveAssemblyReference.cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\App.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.lref
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.g.resources
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.Properties.Resources.resources
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.GenerateResource.Cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.CoreCompileInputs.cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csprojResolveAssemblyReference.cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\App.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.lref
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe.config
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.g.resources
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.Properties.Resources.resources
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.GenerateResource.Cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.CoreCompileInputs.cache
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiEtiketu.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiEtiketu.baml
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe.config
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.pdb
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csprojResolveAssemblyReference.cache
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditEtiketa.g.cs
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.g.cs
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditTip.g.cs
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.g.cs
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.g.cs
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.g.cs
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.g.cs
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddEtiketa.g.cs
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddTip.g.cs
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiEtiketu.g.cs
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiTip.g.cs
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.g.cs
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.g.cs
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.g.cs
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\App.g.cs
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.cache
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.lref
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditEtiketa.baml
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.baml
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditTip.baml
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.baml
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.baml
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.baml
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.baml
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddEtiketa.baml
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddTip.baml
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiEtiketu.baml
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiTip.baml
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.baml
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.baml
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.baml
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.g.resources
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.Properties.Resources.resources
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.GenerateResource.Cache
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.CoreCompileInputs.cache
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.exe
+C:\Users\ra35-2015\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe.config
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csprojResolveAssemblyReference.cache
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiEtiketu.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\App.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.cache
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.lref
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiEtiketu.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.baml
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.g.resources
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.Properties.Resources.resources
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.GenerateResource.Cache
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.CoreCompileInputs.cache
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_Content.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Utils\ShowHelp.g.cs
+C:\Users\sale\Desktop\PROJEKAT HCI\PROJEKAT HCI - Copy - Copy (3) - Copy - Copy - Copy\FestivaliAS\FestivaliAS\obj\Debug\Utils\ShowHelp.baml
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe.config
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csprojResolveAssemblyReference.cache
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditEtiketa.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditTip.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddEtiketa.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddTip.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiEtiketu.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiTip.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\Utils\ShowHelp.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\App.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_Content.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.cache
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.lref
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditEtiketa.baml
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.baml
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditTip.baml
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.baml
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.baml
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.baml
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.baml
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddEtiketa.baml
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddTip.baml
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiEtiketu.baml
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiTip.baml
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.baml
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.baml
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.baml
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\Utils\ShowHelp.baml
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.g.resources
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.Properties.Resources.resources
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.GenerateResource.Cache
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.CoreCompileInputs.cache
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\Utils\demoMod.g.cs
+C:\Users\sale\Desktop\FestivaliAS\FestivaliAS\obj\Debug\Utils\demoMod.baml
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe.config
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.pdb
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csprojResolveAssemblyReference.cache
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditEtiketa.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditTip.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddEtiketa.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddTip.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiEtiketu.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiTip.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Utils\demoMod.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Utils\ShowHelp.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\App.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_Content.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.cache
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.lref
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditEtiketa.baml
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.baml
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditTip.baml
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.baml
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.baml
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.baml
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.baml
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddEtiketa.baml
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddTip.baml
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiEtiketu.baml
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiTip.baml
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.baml
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.baml
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.baml
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Utils\demoMod.baml
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Utils\ShowHelp.baml
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.g.resources
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.Properties.Resources.resources
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.GenerateResource.Cache
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.CoreCompileInputs.cache
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.exe
+C:\Users\sale\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.pdb
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe.config
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.exe
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\bin\Debug\FestivaliAS.pdb
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditEtiketa.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditTip.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddEtiketa.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddTip.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiEtiketu.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiTip.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Utils\demoMod.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Utils\ShowHelp.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\App.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_Content.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.cache
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS_MarkupCompile.lref
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditEtiketa.baml
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditManifestacija.baml
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\EditItems\EditTip.baml
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\MainWindow.baml
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaEtiketa.baml
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NovaManifestacija.baml
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\NoviTip.baml
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddEtiketa.baml
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\NewItems\ZaManifestaciju\AddTip.baml
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiEtiketu.baml
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\PotvrdeBrisanja\ObrisiTip.baml
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaEtiketa.baml
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaManifestacija.baml
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Tabele\TabelaTip.baml
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Utils\demoMod.baml
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\Utils\ShowHelp.baml
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.g.resources
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.Properties.Resources.resources
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.GenerateResource.Cache
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.exe
+C:\Users\TEMP.FTN.002\Desktop\HCI PROJEKAT\FestivaliAS\FestivaliAS\obj\Debug\FestivaliAS.pdb

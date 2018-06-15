@@ -1,0 +1,171 @@
+﻿<Window x:Class="FestivaliAS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FestivaliAS.ViewModels"
+        mc:Ignorable="d"
+        Title="Mapa manifestacija" Icon="Images/icons8-puzzle-48.png" Height="742" Width="1375.333" ResizeMode="NoResize" Closing="zatvaranje">
+    <Window.Resources>
+        <local:GlavniProzorViewModel x:Key="DataContext" />
+    </Window.Resources>
+
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Help" Executed="Help_Executed"/>
+    </Window.CommandBindings>
+    <Grid DataContext="{StaticResource DataContext}" Background="WhiteSmoke">
+
+
+        <DockPanel Grid.RowSpan="2" Grid.ColumnSpan="2">
+            <Menu DockPanel.Dock ="Top" Background="#D0C6B2">
+                <Menu.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <DockPanel HorizontalAlignment="Stretch"></DockPanel>
+                    </ItemsPanelTemplate>
+                </Menu.ItemsPanel>
+                <MenuItem Header="Datoteka" FontSize="20" FontFamily="Arial">
+                    <MenuItem Header="Novo">
+                        <MenuItem Header="Manifestacija" Click="NewManifestacijaClick" InputGestureText="Ctrl+M">
+                            <MenuItem.Icon>
+                                <Image Source="Images/icons8-add-35.png" Height="20" Width="20"  Margin="0,0,0,0" HorizontalAlignment="Stretch"/>
+                            </MenuItem.Icon>
+                        </MenuItem>
+                        <MenuItem Header="Tip" Click="NewTipClick" InputGestureText="Ctrl+T">
+                            <MenuItem.Icon>
+                                <Image Source="Images/icons8-t-35.png" Height="20" Width="20"  Margin="0,0,0,0" HorizontalAlignment="Stretch"/>
+                            </MenuItem.Icon>
+                        </MenuItem>
+                        <MenuItem Header="Etiketa" Click="NewEtiketaClick" InputGestureText="Ctrl+E">
+                            <MenuItem.Icon>
+                                <Image Source="Images/icons8-new-ticket-35 (1).png" Height="20" Width="20"  Margin="0,0,0,0" HorizontalAlignment="Stretch"/>
+                            </MenuItem.Icon>
+                        </MenuItem>
+                    </MenuItem>
+                    <Separator></Separator>
+                    <MenuItem Header="Sačuvaj" Command="{Binding sacuvajCommand}" InputGestureText="Ctrl+S" Click="Save">
+                        <MenuItem.Icon>
+                            <Image Source="Images/icons8-save-35.png" Height="20" Width="20"  Margin="0,0,0,0" HorizontalAlignment="Stretch"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                   
+                    <Separator></Separator>
+                    <MenuItem Header="Izlaz" InputGestureText="Alt+F4" Click="Exit_Application">
+                        <MenuItem.Icon>
+                            <Image Source="Images/icons8-shutdown-35.png" Height="20" Width="20"  Margin="0,0,0,0" HorizontalAlignment="Stretch"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="Tabele" FontSize="20" FontFamily="Arial">
+                    <MenuItem Header="Manifestacije" InputGestureText="Ctrl+Shift+P" Click="NewTableManifestacijaClick">
+                        <MenuItem.Icon>
+                            <Image Source="Images/icons8-data-sheet-35.png" Height="20" Width="20"  Margin="0,0,0,0" HorizontalAlignment="Stretch"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+
+                    <MenuItem Header="Tipovi" InputGestureText="Ctrl+Shift+T" Click="NewTableTip">
+                        <MenuItem.Icon>
+                            <Image Source="Images/icons8-data-sheet-35 (1).png" Height="20" Width="20"  Margin="0,0,0,0" HorizontalAlignment="Stretch"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Etikete" InputGestureText="Ctrl+Shift+E" Click="NewTableEtiketa">
+                        <MenuItem.Icon>
+                            <Image Source="Images/icons8-data-sheet-35 (2).png" Height="20" Width="20"  Margin="0,0,0,0" HorizontalAlignment="Stretch"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="Pomoć" FontSize="20" FontFamily="Arial">
+                    <MenuItem Header="Dokumentacija" InputGestureText="F1" Click="Help_Click"></MenuItem>
+                    <MenuItem Header="Demo mod" Click="pritisnutDemoMod"></MenuItem>
+                </MenuItem>
+                <Separator></Separator>
+            </Menu>
+
+
+            <!--TOOLBAR-->
+            <Border BorderThickness="0,0,3,0" BorderBrush="DimGray">
+                <ToolBarTray Orientation="Vertical" DockPanel.Dock="Left">
+                    <ToolBar DockPanel.Dock="Left" Background="#D0C6B2" Margin="0,0,0,-684" BorderBrush="Black" VerticalAlignment="Stretch">
+                        <ToolBar.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <DockPanel  VerticalAlignment="Stretch"></DockPanel>
+                            </ItemsPanelTemplate>
+                        </ToolBar.ItemsPanel>
+
+                        <Image x:Name="_DodajManifestaciju" Height="35" Width="35" Margin="10" Cursor="Hand" Source="Images/icons8-add-35.png" 
+                       ToolTip="Dodaj Manifestaciju" MouseLeftButtonUp="NewManifestacijaClick"/>
+                        <Image x:Name="_DodajTip" Height="35" Width="35" Margin="10" Cursor="Hand" Source="Images/icons8-t-35.png" 
+                       ToolTip="Dodaj Tip" MouseLeftButtonUp="NewTipClick"/>
+                        <Image x:Name="_DodajEtiketu" Height="35" Width="35" Margin="10" Cursor="Hand" Source="Images/icons8-new-ticket-35 (1).png" 
+                       ToolTip="Dodaj Etiketu" MouseLeftButtonUp="NewEtiketaClick"/>
+                        <Separator></Separator>
+                        <Image x:Name="_ManifestacijaTabela" Height="35" Width="35" Margin="10" Cursor="Hand" Source="Images/icons8-data-sheet-35.png" 
+                       ToolTip="Otvori tabelu manifestacija" MouseLeftButtonUp="NewTableManifestacijaClick"/>
+                        <Image x:Name="_TipTabela" Height="35" Width="35" Margin="10" Cursor="Hand" Source="Images/icons8-data-sheet-35 (1).png" 
+                       ToolTip="Otvori tabelu tipova manifestacija" MouseLeftButtonUp="NewTableTip"/>
+                        <Image x:Name="_EtiketaTabela" Height="35" Width="35" Margin="10" Cursor="Hand" Source="Images/icons8-data-sheet-35 (2).png" 
+                       ToolTip="Otvori tabelu etiketa" MouseLeftButtonUp="NewTableEtiketa"/>
+                        <Separator></Separator>
+
+                        <Image x:Name="_Save" Height="35" Width="35" Margin="10" Cursor="Hand" Source="Images/icons8-save-35.png" 
+                       ToolTip="Sačuvaj trenutno stanje" MouseLeftButtonUp="Save" />
+                       
+                        <Separator></Separator>
+
+                    </ToolBar>
+                </ToolBarTray>
+            </Border>
+            <Grid DockPanel.Dock="Bottom" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+
+            </Grid>
+
+            <Canvas Name="Map" AllowDrop="True" Mouse.PreviewMouseDown="Map_PreviewMouseLeftButtonDown" MouseRightButtonDown="Map_MouseRightButtonDown" MouseMove="Map_MouseMove" DragEnter="Map_DragEnter" Drop="Map_Drop" Width="1305" Margin="0,0,0,0">
+                <Canvas.Background>
+                    <VisualBrush  >
+                        <VisualBrush.Visual>
+                            <Image x:Name="NsMap" Source="Images/NoviSad.png"  />
+                        </VisualBrush.Visual>
+                    </VisualBrush>
+                </Canvas.Background>
+
+                <Canvas.ContextMenu>
+                    <ContextMenu Name="contextMenu">
+                        <MenuItem  FontSize="20" FontFamily="Arial" Background="LightBlue"  Header="Ažuriraj manifestaciju" Click="UpdateManifestation_Click">
+                           
+                        </MenuItem>
+                        <MenuItem  FontSize="20" FontFamily="Arial" Header="Ukloni prikaz manifestacije" Click="RemoveManifestationIcon_Click">
+                           
+                        </MenuItem>
+                        <MenuItem  FontSize="20" FontFamily="Arial" Background="LightCoral" Header="Obriši manifestaciju" Click="DeleteManifestation_Click">
+                           
+                        </MenuItem>
+                    </ContextMenu>
+                </Canvas.ContextMenu>
+            </Canvas>
+
+
+        </DockPanel>
+
+
+        <GroupBox ToolTip="Ovde idu manifestacije koje ce se prebacivati na mapu" Opacity="0.8"  FontWeight="Bold" FontSize="22" FontFamily="Arial" Background="#856F40" Foreground="Black" Margin="1118,28,0,0" BorderBrush="DimGray">
+            <Grid>
+                <Label Content="Manifestacije:" HorizontalAlignment="Left"  FontFamily="Arial"  Margin="4,8,0,-7" Foreground="#FF111111" />
+
+                <ListView x:Name="listView" Margin="10,46,10,0" ItemsSource="{Binding Manifestacije}" PreviewMouseLeftButtonDown="ListView_PreviewMouseLeftButtonDown" MouseMove="ListView_MouseMove" Background="#F7F1E6" RenderTransformOrigin="0.5,0.5" Height="615" VerticalAlignment="Top" Opacity="1">
+
+                    <ListView.ItemTemplate >
+                        <DataTemplate >
+                            <WrapPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <Image  Height="70" Source="{Binding IconPath}" Width="70" Margin="0,0,5,0" HorizontalAlignment="Left"/>
+                                    <TextBlock Text="{Binding Id}" FontWeight="Bold" />
+                                </StackPanel>
+                            </WrapPanel>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>

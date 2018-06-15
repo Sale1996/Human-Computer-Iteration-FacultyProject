@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Tabela tipova manifestacija</title>
+	<style type="text/css">
+		body {font-size: 150%}
+	</style>
+</head>
+<body>
+    <p><a href="MainWindow.html">Pocetna</a>&nbsp;&nbsp;<a href="Manifestation.html">Manifestacije</a>&nbsp;&nbsp;<a href="Type.html">Tipovi</a>&nbsp;&nbsp;<a href="Tag.html">Etikete</a></p>
+    <h1>Tabela tipova manifestacija</h1>
+    <div>
+        Pomoću ovog dijaloga možete videti prikaz svih tipova manifestacija. 
+        Postoji pretraga tipova, koja se pokreće klikom na dugme "Pretraga", nakon klika se prikažu svi tipovi manifestacija u tabeli, koji odgovaraju unosu teksta u poju "Id" i polju "Ime".
+        Da bismo poništili pretragu, moramo pritisnuti dugme "Poništi".
+
+        <p>Akcije nad tipovima manifestacija:</p>
+        <ul>
+            <li><b>"Dodaj"</b> - Otvara prozor za unos novog tipa manifestacije.</li>
+            <li><b>"Izmeni"</b>
+            - Otvara prozor za ažuriranje prethodno odabranog tipa manifestacije u okviru tabele.</li>
+            <li><b>"Izbriši"</b>
+            - Uklanja se prethodno odabrani tip manifestacije u okviru tabele.</li>
+        </ul>
+
+    </div>
+	<h2>Filter i pregraga </h2>
+	<div>
+		<p>Filter i pretraga se vrši preko tekstualnog unosa, nalik SQL upitu.</p>
+		<p>Format tog teksta mora biti :  oznaka_atributa RELACIONI_OPERATOR "vrednost".</p>
+		<p>Izmedju 2 izraza može da se nalazi logicki operator (samo OR ili AND). Zagrade su potrebne kod kombinovanja više od 2 izraza, npr. (izraz1 AND izraz2) OR (izraz3 OR izraz4).</p>
+		U slučaju da dodje do leksičke ili sintaksne greške pretraga neće dati rešenje!
+
+		<p> Oznaku svakog pojedinačnog atributa možete videti u listi ispod: </p>
+		<ul>
+			<li><b>id</b> - Oznaka za jedinstvenu oznaku tipa</li>
+			<li><b>ime</b>- Oznaka za naziv tipa</li>
+		</ul>
+	
+	</div>
+</body>
+
+</html>

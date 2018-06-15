@@ -1,0 +1,68 @@
+﻿<Window x:Class="FestivaliAS.Tabele.TabelaEtiketa"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FestivaliAS.ViewModels"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="TabelaEtiketa" Icon="/../Images/icons8-data-sheet-35 (2).png" Height="700" Width="740" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <local:EtiketaViewModel x:Key="DataContext" />
+    </Window.Resources>
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Help" Executed="Help_Executed"/>
+    </Window.CommandBindings>
+    <Grid DataContext="{Binding Source= {StaticResource DataContext}}" Background="#9DB6A4">
+
+        <Button x:Name="Add" Command="{Binding KreirajNovuEtiktuUTabeliCommand}" Content="Dodaj" HorizontalAlignment="Left" Background="YellowGreen" Width="106" FontSize="22" FontFamily="Arial" Margin="334,547,0,81" RenderTransformOrigin="0.623,0.512" Click="Add_Click"  />
+        <Button x:Name="Edit" Command="{Binding EditEtiketaClickCommand}" Content="Izmeni" HorizontalAlignment="Left" Background="LightBlue" Width="106" FontSize="22" FontFamily="Arial" Margin="466,547,0,81" RenderTransformOrigin="-0.146,0.583"  />
+        <Button x:Name="Delete" Command="{Binding RemoveEtiketaCommand}" Content="Izbriši" HorizontalAlignment="Left" Background="LightCoral" FontSize="22" FontFamily="Arial" Width="106" Margin="602,547,0,81" />
+        <Button Name="Izadji" Content="Izađi" HorizontalAlignment="Left" Width="106" FontSize="22" FontFamily="Arial" Background="LightGray" Margin="602,609,0,19" Click="Cancel_Click"/>
+
+
+        <!--FILTER I PRETRAGA-->
+
+        <GroupBox x:Name="FilterTipova" BorderBrush="DimGray" Background="WhiteSmoke" BorderThickness="2" Header="Filter i pretraga" HorizontalAlignment="Left" FontWeight="DemiBold" Margin="22,10,0,0" FontSize="24"   FontFamily="Arial" 
+                  VerticalAlignment="Top" Height="146" Width="686" >
+            <Grid>
+
+                <!--ID PRETRAGA-->
+                <TextBox BorderBrush="DimGray" Text="{Binding EtiketaFilter.Id, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="535" HorizontalContentAlignment="Left" 
+                 VerticalContentAlignment="Center" FontSize="20" FontFamily="Arial" Background="#DDECE1" Foreground="Black" Margin="6,35,0,0" />
+
+                <!--BOJA PRETRAGA-->
+                <!--Boja-->
+
+
+
+                <Button x:Name="FindTip" Command="{Binding PretragaFilterEtiketeCommand}" FontWeight="Normal" Content="Pretraži" HorizontalAlignment="Left" Background="Bisque" Width="106" FontSize="22" FontFamily="Arial" Margin="546,0,0,68" RenderTransformOrigin="0.542,0.062"/>
+                <Button Name="PonistiTip" Command="{Binding PonistavanjePretrageCommand}" FontWeight="Normal" Content="Poništi" HorizontalAlignment="Left" Width="106" FontSize="22" FontFamily="Arial" Background="LightGray" Margin="546,56,0,10" RenderTransformOrigin="0.052,0.643"/>
+
+            </Grid>
+        </GroupBox>
+
+
+        <!--TABELA GRID LISTA SVEGA-->
+
+        <!--TABELA-->
+        <DataGrid Name="tipGrid" Background="WhiteSmoke"  AutoGenerateColumns="False" SelectedItem="{Binding SelektovanaEtiketa, UpdateSourceTrigger=PropertyChanged}"  ItemsSource="{Binding Etikete}"  IsReadOnly="True" Margin="22,186,26,136" FontSize="20" FontFamily="Arial" RowHeight="50" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Jedinstvena oznaka" MinWidth="200" Width="*" Binding="{Binding Id}"/>
+                <DataGridTemplateColumn Header="Boja etikete" MinWidth="200" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Background="{Binding Path=Color}" MinWidth="200" Margin="5"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Header="Opis" MinWidth="200" Width="*" Binding="{Binding Opis}"/>
+
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+
+    </Grid>
+</Window>

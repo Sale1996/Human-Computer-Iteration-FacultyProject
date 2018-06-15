@@ -1,0 +1,144 @@
+﻿<Window x:Class="FestivaliAS.NewItems.NovaManifestacija"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FestivaliAS.ViewModels"
+        mc:Ignorable="d"
+        Title="Nova Manifestacija" Icon="/../Images/icons8-add-35.png"  Height="685" Width="890" Closing="zatvaranje" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <local:ManifestacijaViewModel x:Key="DataContext" />
+    </Window.Resources>
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Help" Executed="Help_Executed"/>
+    </Window.CommandBindings>
+    <Grid DataContext="{StaticResource DataContext}" Margin="0,0,0,0" Background="#B6A59D">
+
+
+
+
+        <Button Name="DodajDugme" Command="{Binding AddManifestacijaCommand}" Content="Dodaj" HorizontalAlignment="Left" Margin="532,583,0,30" Width="139" FontSize="22" FontFamily="Arial" Background="YellowGreen" Click="DodajDugme_Click"/>
+        <Button Name="Odustani" Command="{Binding OdustaniPravljenjeManifestacijeCommand}" Content="Odustani" HorizontalAlignment="Left"  Margin="708,583,0,30" Width="140" FontSize="22" FontFamily="Arial" Background="LightGray" Click="Cancel_Click"/>
+
+
+        <GroupBox x:Name="Osnovno" Header="Osnovno" HorizontalAlignment="Left" FontWeight="Bold"  Margin="10,10,0,0" FontSize="15" 
+                  VerticalAlignment="Top" Height="555" Width="415" BorderBrush="DimGray" BorderThickness="2" Background="WhiteSmoke">
+
+            <Grid>
+                <!--ID POLJE-->
+                <Label Content="Jedinstvena oznaka:" FontWeight="Normal" HorizontalAlignment="Left" FontSize="20" FontFamily="Arial" Width="Auto" Margin="0,5,0,443"/>
+
+                <TextBox x:Name="Id" BorderBrush="DimGray" FontWeight="Normal" Text="{Binding Manifestacija.Id, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="186" HorizontalContentAlignment="Left" 
+                 VerticalContentAlignment="Center" FontSize="20" FontFamily="Arial" Background="#ECE0DD" Foreground="Black" Margin="207,5,0,0" />
+                <Label FontSize="18" FontWeight="Bold" Foreground="Red" Content="{Binding ElementName=Id , Path=(Validation.Errors).CurrentItem.ErrorContent}"  Margin="0,29,10,423" />
+
+                <!--IME-->
+                <Label Content="Ime:" HorizontalAlignment="Left" FontWeight="Normal" FontSize="20" FontFamily="Arial" Width="192" Margin="0,61,0,382" ></Label>
+
+                <TextBox x:Name="Name" BorderBrush="DimGray" FontWeight="Normal" Text="{Binding Manifestacija.Name,ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="186" HorizontalContentAlignment="Left" 
+                 VerticalContentAlignment="Center" FontSize="20" FontFamily="Arial" Background="#ECE0DD" Foreground="Black" Margin="207,61,0,0" />
+                <Label FontSize="18" FontWeight="Bold" Foreground="Red" Content="{Binding ElementName=Name , Path=(Validation.Errors).CurrentItem.ErrorContent}" Margin="0,90,10,364" />
+
+                <!--TIP-->
+                <Label Content="Tip" FontWeight="Normal"  HorizontalAlignment="Left" FontSize="20" FontFamily="Arial" Width="192" Margin="0,123,0,297"></Label>
+                <TextBox x:Name="Tip" BorderBrush="DimGray" FontWeight="Normal" Text="{Binding Manifestacija.Tip, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=OneWay}" IsReadOnly="true"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="0" HorizontalContentAlignment="Left"  FontSize="20" FontFamily="Arial" Background="#ECE0DD" Margin="207,122,0,0" Height="0" RenderTransformOrigin="0.5,0.5" >
+                    
+                </TextBox>
+                <TextBox x:Name="TipID" BorderBrush="DimGray" FontWeight="Normal" Text="{Binding Manifestacija.Tip.Id, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=OneWay}" IsReadOnly="true"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="186" HorizontalContentAlignment="Left"  FontSize="20" FontFamily="Arial" Background="#ECE0DD" Margin="207,122,0,0" />
+
+                <Button x:Name="dugmeTip" Command="{Binding UbaciTipCommand}" VerticalContentAlignment="Center"  FontWeight="Normal" Background="#C9BDB9" Foreground="Black" Content="Ubaci" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Margin="57,122,0,0" Height="29" Width="60"></Button>
+                <Button x:Name="ozveziTip" Command="{Binding RefreshCommand}" VerticalContentAlignment="Center"  FontWeight="Normal" Background="#C9BDB9" Foreground="Black" Content="Osveži" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Margin="128,122,0,0" Height="29" Width="69"></Button>
+                <Label FontSize="18" FontWeight="Bold" Foreground="Red" Content="{Binding ElementName=Tip , Path=(Validation.Errors).CurrentItem.ErrorContent}" Margin="0,151,10,303" />
+
+
+                <!--Kategorija cena-->
+                <Label Content="Kategorija cena:" FontWeight="Normal" HorizontalAlignment="Left" FontSize="20" FontFamily="Arial"  Width="192" Margin="0,188,0,254"></Label>
+                <ComboBox x:Name="KategorijaCena" BorderBrush="DimGray" FontWeight="Normal" Background="#C9BDB9" Text="{Binding Manifestacija.KategorijaCena,ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}"  HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" FontFamily="Arial" Margin="207,192,0,0" Width="186" Height="30">
+                    <ComboBoxItem Content="Besplatno" Background="#ECE0DD"></ComboBoxItem>
+                    <ComboBoxItem Content="Niske cene" Background="#ECE0DD"></ComboBoxItem>
+                    <ComboBoxItem Content="Srednje cene" Background="#ECE0DD"></ComboBoxItem>
+                    <ComboBoxItem Content="Visoke cene" Background="#ECE0DD"></ComboBoxItem>
+                </ComboBox>
+                <Label FontSize="18" FontWeight="Bold" Foreground="Red" Content="{Binding ElementName=KategorijaCena , Path=(Validation.Errors).CurrentItem.ErrorContent}" Width="Auto" Margin="0,232,10,221" />
+
+                <!--Mesto odrzavanja-->
+
+                <Label Content="Mesto održavanja:" FontWeight="Normal" HorizontalAlignment="Left" FontSize="20" FontFamily="Arial"  Width="192" Margin="0,275,0,176"></Label>
+                <ComboBox x:Name="MestoOdrzavanja" BorderBrush="DimGray" FontWeight="Normal"  Background="#C9BDB9" Text="{Binding Manifestacija.MestoOdrzavanja,ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}"  HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" FontFamily="Arial" Margin="207,274,0,0" Width="186" Height="29">
+                    <ComboBoxItem Content="Napolju" Background="#ECE0DD"></ComboBoxItem>
+                    <ComboBoxItem Content="Unutra" Background="#ECE0DD"></ComboBoxItem>
+                </ComboBox>
+                <Label FontSize="18" FontWeight="Bold" Foreground="Red" Content="{Binding ElementName=MestoOdrzavanja , Path=(Validation.Errors).CurrentItem.ErrorContent}" Margin="0,308,10,140" />
+                <!--Datum odrzavanja-->
+                <Label Content="Datum održavanja:" FontWeight="Normal" HorizontalAlignment="Left" FontSize="20" FontFamily="Arial"  Width="192" Margin="0,346,0,105"></Label>
+                <DatePicker Name="DatumOdrzavanja" BorderBrush="DimGray" Text="{Binding Manifestacija.Date,ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay ,TargetNullValue=''}" FontWeight="Normal"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="207,350,0,0" Width="186" Height="29"/>
+                <TextBox x:Name="DatumString" BorderBrush="DimGray" FontWeight="Normal" Text="{Binding Manifestacija.Datum, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="0" Height="0" HorizontalContentAlignment="Left" Margin="7,374,0,0" />
+
+                <Label FontSize="18" FontWeight="Bold" Foreground="Red" Content="{Binding ElementName=DatumString , Path=(Validation.Errors).CurrentItem.ErrorContent}" Margin="0,372,72,76" />
+
+                <!--Opis-->
+                <Label Content="Opis:"  FontWeight="Normal" HorizontalAlignment="Left" FontSize="20" FontFamily="Arial" Width="57" Margin="0,429,0,-429"></Label>
+                <TextBox FontWeight="Normal" BorderBrush="DimGray" Text="{Binding Manifestacija.Opis,ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" HorizontalAlignment="Left" Height="90" Margin="57,429,0,0" TextWrapping="Wrap" VerticalAlignment="Top" 
+                 Width="336" FontSize="20" Background="#E8DCDC" FontFamily="Arial" Foreground="Black" VerticalScrollBarVisibility="Auto"/>
+
+            </Grid>
+
+
+        </GroupBox>
+
+
+        <!--ZA IKONICU POLJE-->
+        <GroupBox x:Name="Ikonica" Header="Ikonica" HorizontalAlignment="Left" Margin="439,10,0,0" 
+                  VerticalAlignment="Top" Height="180" Width="430" BorderBrush="DimGray" BorderThickness="2" Background="WhiteSmoke" FontSize="15" FontWeight="Bold">
+            <Grid>
+                <Button x:Name="dugmeIkonica" Command="{Binding AddManifestationIcon}" FontWeight="Normal" Background="#C9BDB9" Foreground="Black" Content="Izaberi Ikonicu" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Margin="268,102,0,0" Height="42" Width="140"></Button>
+                <Image Source="{Binding Manifestacija.IconPath}" Margin="10,10,175,10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+
+            </Grid>
+        </GroupBox>
+
+        <!--POLJE ZA DODATNA PODESAVANJA-->
+
+        <GroupBox x:Name="groupBox" Header="Dodatne informacije" HorizontalAlignment="Left" Margin="439,195,0,0"
+                  VerticalAlignment="Top" Height="370" Width="430" BorderBrush="DimGray" BorderThickness="2" Background="WhiteSmoke" FontSize="15" FontWeight="Bold">
+            <Grid>
+                <!--STATUS SLUZENJA ALKOHOLA-->
+                <Label FontWeight="Normal" Content="Status služenja alkohola:" HorizontalAlignment="Left" FontSize="20" FontFamily="Arial" Margin="0,0,0,266" Width="231" ></Label>
+                <ComboBox FontWeight="Normal" x:Name="StatusAlkohola" Background="#C9BDB9" Text="{Binding Manifestacija.StatusAlkohola,ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" FontFamily="Arial" Margin="236,4,0,0" Width="172">
+                    <ComboBoxItem Content="Nema alkohola" Background="#ECE0DD" ></ComboBoxItem>
+                    <ComboBoxItem Content="Alkohol se može doneti" Background="#ECE0DD" ></ComboBoxItem>
+                    <ComboBoxItem Content="Kupuje se na licu mesta" Background="#ECE0DD"></ComboBoxItem>
+                </ComboBox>
+
+                <Label FontSize="18" FontWeight="Bold" Foreground="Red" Content="{Binding ElementName=StatusAlkohola , Path=(Validation.Errors).CurrentItem.ErrorContent}" Margin="0,33,44,233" />
+
+                <!--DOSTUPNOST ZA HENDIKEPIRANE-->
+                <Label FontWeight="Normal" Content="Da li je dostupno za hendikepirane osobe:" HorizontalAlignment="Left" FontSize="20" FontFamily="Arial"  Width="381" Margin="0,55,0,209"></Label>
+                <RadioButton FontWeight="Normal" x:Name="Hendikepirani"  IsChecked="{Binding Manifestacija.HendikepiraniDozvoljeni, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" GroupName="MyGroup" Content="Da" FontSize="20" FontFamily="Arial" Margin="105,88,254,228" />
+                <RadioButton FontWeight="Normal" Click="Hendikepriani_No_Click" IsChecked="{Binding Manifestacija.HendikepiraniNisuDozvoljeni, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" GroupName="MyGroup"  Content="Ne" FontSize="20" FontFamily="Arial" Margin="214,88,149,228" RenderTransformOrigin="0.431,1.44"/>
+                <Label FontWeight="Bold" FontSize="18" Foreground="Red" Content="{Binding ElementName=Hendikepirani , Path=(Validation.Errors).CurrentItem.ErrorContent}" Margin="0,114,0,159" />
+                <!--DA LI JE PUSENJE DOZVOLJENO-->
+                <Label FontWeight="Normal" Content="Da li je pušenje dozvoljeno:" HorizontalAlignment="Left" FontSize="20" FontFamily="Arial" Margin="0,135,0,172" Width="261"  ></Label>
+                <RadioButton FontWeight="Normal" x:Name="Pusenje"   GroupName="MyGroup1" IsChecked="{Binding Manifestacija.PusenjeDozvoljeno, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" Content="Da" FontSize="20" FontFamily="Arial" Margin="105,172,260,149" />
+                <RadioButton FontWeight="Normal" Click="Pusenje_No_Click" GroupName="MyGroup1" IsChecked="{Binding Manifestacija.PusenjeNijeDozvoljeno, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" Content="Ne" FontSize="20" FontFamily="Arial"  RenderTransformOrigin="0.431,1.44" Margin="214,172,149,149" />
+                <Label FontWeight="Bold" FontSize="18" Foreground="Red" Content="{Binding ElementName=Pusenje , Path=(Validation.Errors).CurrentItem.ErrorContent}" Margin="0,195,0,78" />
+
+                <!--ETIKETE-->
+                <Label Content="Etikete:" FontWeight="Normal"  HorizontalAlignment="Left" FontSize="20" FontFamily="Arial" Width="192" Margin="0,230,0,77"></Label>
+                <Button x:Name="dugmeEtiketa" Command="{Binding UbaciEtiketuCommand}"  FontWeight="Normal" Background="#C9BDB9" Foreground="Black" Content="Ubaci" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Margin="87,230,0,0" Height="29" Width="60"></Button>
+                <Button x:Name="ozveziEtikete" Command="{Binding RefreshEtiketaCommand}" VerticalContentAlignment="Center"  FontWeight="Normal" Background="#C9BDB9" Foreground="Black" Content="Osveži" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Margin="158,230,0,0" Height="29" Width="69"></Button>
+
+                <ComboBox FontWeight="Normal" x:Name="etikete" ItemsSource="{Binding Path=Manifestacija.Etikete}" DisplayMemberPath="Id" Background="#C9BDB9"  IsReadOnly="True"  HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" FontFamily="Arial" Margin="236,230,0,0" Width="172">
+
+                </ComboBox>
+
+                <!--Ocekivana publika-->
+                <Label FontWeight="Normal" Content="Očekivana publika:" HorizontalAlignment="Left" FontSize="20" FontFamily="Arial" Margin="0,280,0,-14" Width="355" ></Label>
+                <TextBox FontWeight="Normal" BorderBrush="DimGray" x:Name="OcekivanaPublika" Text="{Binding Manifestacija.OcekivanaPublika,ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="172" HorizontalContentAlignment="Left" 
+                 VerticalContentAlignment="Center" FontSize="20" FontFamily="Arial" Background="#ECE0DD" Foreground="Black" Margin="236,280,0,0" Height="29" />
+                <Label FontSize="18" FontWeight="Bold" Foreground="Red" Content="{Binding ElementName=OcekivanaPublika , Path=(Validation.Errors).CurrentItem.ErrorContent}" Margin="0,309,-57,-1" />
+
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>

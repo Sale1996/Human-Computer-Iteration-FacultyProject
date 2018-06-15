@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Rad sa etiketama</title>
+	<style type="text/css">
+		body {font-size: 150%}
+	</style>
+</head>
+<body>
+    <p><a href="MainWindow.html">Pocetna</a>&nbsp;&nbsp;<a href="Manifestation.html">Manifestacije</a>&nbsp;&nbsp;<a href="Type.html">Tipovi</a>&nbsp;&nbsp;<a href="Tag.html">Etikete</a></p>
+    <h1>Rad sa etiketama</h1>
+    <div>
+        Pomoću ovog dijaloga mozete dodati ili ažurirati etiketu manifestacije popunjavanjem polja i pritiskom na dugme "Dodaj".
+        Obavezna polja su "Jedinstvena oznaka" i polje boje, dok polje opisa ostaje opciono.
+
+        <p>Polja za unos:</p>
+        <ul>
+            <li><b>"Jedinstvena oznaka"</b> - Jedinstvene ljudski čitljive oznake tipa manifestacije u okviru aplikacije.</li>
+            <li><b>"Boja"</b> - Predstavlja meni u kom je omogućen odabir boje etikete.</li>
+            <li><b>"Opis"</b> - Predstavlja detaljniji opis datog tipa manifestacije.</li>
+        </ul>
+
+        
+    </div>
+
+	<h2>Filter i pregraga </h2>
+	<div>
+		<p>Filter i pretraga se vrši preko tekstualnog unosa, nalik SQL upitu.</p>
+		<p>Format tog teksta mora biti :  oznaka_atributa RELACIONI_OPERATOR "vrednost".</p>
+		<p>Izmedju 2 izraza može da se nalazi logicki operator (samo OR ili AND). Zagrade su potrebne kod kombinovanja više od 2 izraza, npr. (izraz1 AND izraz2) OR (izraz3 OR izraz4).</p>
+		U slučaju da dodje do leksičke ili sintaksne greške pretraga neće dati rešenje!
+
+		<p> Oznaku svakog pojedinačnog atributa možete videti u listi ispod: </p>
+		<ul>
+			<li><b>id</b> - Oznaka za jedinstvenu oznaku etikete</li>
+			<li><b>boja</b>- Oznaka za boju etikete</li>
+		</ul>
+	
+	</div>
+</body>
+</html>

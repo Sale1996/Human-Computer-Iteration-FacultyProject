@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Prikaz manifestacija</title>
+	<style type="text/css">
+		body {font-size: 150%}
+	</style>
+</head>
+<body>
+    <p><a href="MainWindow.html">Pocetna</a>&nbsp;&nbsp;<a href="Manifestation.html">Manifestacije</a>&nbsp;&nbsp;<a href="Type.html">Tipovi</a>&nbsp;&nbsp;<a href="Tag.html">Etikete</a></p>     
+    <h1>Tabela manifestacija</h1>
+    <div>
+        Pomoću ovog dijaloga možete videti prikaz svih manifestacija. 
+        Postoji pretraga manifestacija, koja se pokreće klikom na dugme "Pretraga", nakon čega se prikažu svi tipovi manifestacija u tabeli, koji odgovaraju unosu teksta u polju "Id" i ostalih polja pretrage kao što su "Ime", "Hendikep", "Unutra", "Napolju", "Pušenje", "Alkohol", "Cena", "Tip".
+        Da bismo poništili pretragu/filtriranje, moramo pritisnuti dugme "Poništi".
+
+        <p>Akcije nad manifestacijama:</p>
+        <ul>
+            <li><b>"Dodaj"</b> - Otvara prozor za unos nove manifestacije.</li>
+            <li><b>"Izmeni"</b>
+            - Otvara prozor za ažuriranje prethodno odabrane manifestacije u okviru tabele.</li>
+            <li><b>"Izbriši"</b>
+            - Uklanja se prethodno odabrana manifestacija u okviru tabele.</li>
+        </ul>
+
+    </div>
+
+	<h2>Filter i pregraga </h2>
+	<div>
+		<p>Filter i pretraga se vrši preko tekstualnog unosa, nalik SQL upitu.</p>
+		<p>Format tog teksta mora biti :  oznaka_atributa RELACIONI_OPERATOR "vrednost".</p>
+		<p>Izmedju 2 izraza može da se nalazi logicki operator (samo OR ili AND). Zagrade su potrebne kod kombinovanja više od 2 izraza, npr. (izraz1 AND izraz2) OR (izraz3 OR izraz4).</p>
+		U slučaju da dodje do leksičke ili sintaksne greške pretraga neće dati rešenje!
+
+		<p> Oznaku svakog pojedinačnog atributa možete videti u listi ispod: </p>
+		<ul>
+			<li><b>id</b> - Oznaka za jedinstvenu oznaku manifestacije</li>
+			<li><b>ime</b>- Oznaka za naziv manifestacije</li>
+			<li><b>mOdrzavanja</b>- Oznaka za mesto održavanja manifestacije</li>
+			<li><b>sAlkohola</b>- Oznaka za status alkohola u manifestaciji</li>
+			<li><b>kCena</b>- Oznaka za kategoriju cena manifestacije</li>
+			<li><b>pusenje</b>- Oznaka za dozvoljenost pusenja u manifestaciji</li>
+			<li><b>hendikepirani</b>- Oznaka za dostupnost hendikepiranima u manifestaciji</li>
+			<li><b>etiketa</b>- Oznaka za id etikete manifestacije</li>
+			<li><b>tip</b>- Oznaka za id tipa manifestacije</li>
+			<li><b>publika</b>- Oznaka za broj očekivane publike manifestacije</li>
+			<li><b>datum</b>- Oznaka za datum održavanja manifestacije (Napomena: vrednost datuma pisati u obliku "yyyy-mm-dd")</li>
+
+						
+
+		</ul>
+	
+	</div>
+</body>
+</html>
